@@ -1,0 +1,37 @@
+package com.ardent.book_service.entity;
+
+public enum Genre {
+    ACTION,
+    ADVENTURE,
+    BIOGRAPHY,
+    BUSINESS,
+    CHILDREN,
+    CLASSIC,
+    COMEDY,
+    COOKING,
+    CRIME,
+    DRAMA,
+    EDUCATION,
+    FANTASY,
+    FICTION,
+    GRAPHIC_NOVEL,
+    HISTORY,
+    HORROR,
+    MYSTERY,
+    PHILOSOPHY,
+    POETRY,
+    PSYCHOLOGY,
+    ROMANCE,
+    SCIENCE,
+    SCIENCE_FICTION,
+    SELF_HELP,
+    SPIRITUALITY,
+    SPORTS,
+    TECHNOLOGY,
+    THRILLER,
+    TRAVEL,
+    TRUE_CRIME,
+    YOUNG_ADULT,
+    OTHER
+}
+
